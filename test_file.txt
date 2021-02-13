@@ -3,3 +3,5 @@ This is a new file
 That has changed now
 
 And changed again
+
+Other test
